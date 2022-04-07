@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 
 # droplink url
-url = ""
+url = "https://droplink.co/JanhviUHD"
 
 # ==============================================
     
